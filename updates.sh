@@ -2,7 +2,7 @@
 
 # ------------ 配置部分 ------------
 TARGET_DIR="/home/shdmt"  # 替换为目标目录
-DOWNLOAD_URL="https://gh.llkk.cc/https://github.com/Potterli20/file/releases/download/dns-hosts-adgh-pro/dnshosts-adgh-pro-adguardhome-new-blacklist_full_combine.txt"  # 替换为实际下载链接
+DOWNLOAD_URL="https://gh-proxy.com/github.com/ChenYun10/ChinaDNS-of-AdGuardHomeDoH/blob/main/china-domains-doh.yaml.txt"  # 替换为实际下载链接
 FILE_NAME="dnshosts-adgh-pro-adguardhome-new-blacklist_full_combine.txt"       # 下载后的文件名（可选，若不指定则保留原始名）
 LOG_FILE="/var/log/auto-update-wget.log"  # 日志路径
 
